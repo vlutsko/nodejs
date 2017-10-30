@@ -1,0 +1,5 @@
+﻿<ul>
+<li>-    login: evgen</li>
+<li>-    age: 25</li>
+<li>-    name: Євгеній</li>
+</ul>
